@@ -1,4 +1,4 @@
-const accessKey = process.env.UNSPLASH_API_KEY;
+const accessKey = "2gXvqEGis0819mW_b2mydqGACbfyk9gOCHtIurK4JRQ";
 
 const form = document.querySelector("form");
 const input = document.getElementById("search-input");
